@@ -20,14 +20,15 @@
     'base/base',
     'base/custom';
 
-@import 'layouts/about',
-'layouts/blog',
-'layouts/bottom-bar',
-'layouts/cover',
-'layouts/footer',
-'layouts/header',
-'layouts/main',
-'layouts/sidebar';
+@import
+    //'layouts/about',
+    'layouts/blog',
+    'layouts/bottom-bar',
+    'layouts/cover',
+    'layouts/footer',
+    'layouts/header',
+    'layouts/main',
+    'layouts/sidebar';
 
 @import
     'components/alert',
